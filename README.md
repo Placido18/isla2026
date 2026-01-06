@@ -57,11 +57,11 @@ The (initial) plan for the topics of each of our classes is the following:
   - TD5: Gradient boosting
 
 - **Week 10 (20-April 2026)**
-  - CM10: Tabular Foundational Models (1)
+  - CM10: Tabular Foundational Models
   - TD6: Some questions from previous exams
 
 - **Week 11 (27-April 2026)**
-  - CM11: Tabular Foundational Models (2)
+  - CM11: Graphs and community detection
   - TP3: Benchmarking classification methods -- **Deadline XX**
 
 ### Textbooks
