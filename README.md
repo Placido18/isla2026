@@ -1,7 +1,5 @@
 # Introduction to statistical learning and applications 2026
 
----
-
 Hi :wave: 
 
 This is the main page to look for materials of our classes on "Statistical learning and applications" in 2026. Please note that we **won't be using Chamilo**, so you should be checking this page regularly for updates.
@@ -49,10 +47,10 @@ The (initial) plan for the topics of each of our classes is the following:
   
 - **Week 8.1 (30-March 2026)**
   - CM8: Ensemble methods
-  - TD4: Some questions from previous exams
+  - TD3: Some questions from previous exams
 
 - **Week 8.2 (03-April 2026)**
-  - TD3: Some questions from previous exams
+  - TD4: Some questions from previous exams
 
 - **Week 9 (13-April 2026)**
   - CM9: ML competitions, metrics, etc.
@@ -76,9 +74,9 @@ Your final grade will the average of your TP scores (50%) and the final exam (50
 
 #### -- Concerning the TP scores
 During the semester, you will work on three TP subjects in groups of three students. Each TP score will be based on two parts:
-(1) The grade of your report (50%)
+- (1) The grade of your report (50%)
   - The report is a `ipynb` that should answer the questions from the TP
-(2) The performance of your group in the corresponding challenge (50%). The best group gets the best grade (20).
+- (2) The performance of your group in the corresponding challenge (50%). The best group gets the best grade (20).
 You will send us by e-mail the URL of a github repo containing your report and the code used for the competition
 
 #### -- Concerning the final exam
