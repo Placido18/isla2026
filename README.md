@@ -75,7 +75,7 @@ Your final grade will the average of your TD/TP scores (50%) and the final exam 
 #### -- Concerning the TD/TP scores
 Your "controle continu" (CC) grade will be based on several aspects concerning the TD and TP sessions:
 - **P** : Presence (10%) and active participation (10%) in both TP and TD sessions is mandatory
-- **R** : The average grade on the reports for the three TPs (40%)
+- **R** : The average grade on the reports for the three TPs (30%)
   - The report is a `ipynb` that should answer the questions from the TP session
   - You should upload the final notebook into a folder of the the github/gitlab repo of your group
   - The report can be done in groups of three students
@@ -83,7 +83,7 @@ Your "controle continu" (CC) grade will be based on several aspects concerning t
 - **C** : Your **individual** performance in the two challenges that we will propose during the semester (25+25%)
   - Best participant gets full grade on the competition, all others get a grade proportional to his score
 
-In all, we have that CC = 0.10x**P** + 0.40x**R** + 0.50x**C**
+In all, we have that CC = 0.20x**P** + 0.30x**R** + 0.50x**C**
 
 #### -- Concerning the final exam
 The final exam will be a 3h practical evaluation on the computers from ENSIMAG. It will have some multiple-choice questions to evaluate your theoretical knowledge and some practical questions similar to what you will do in the TPs. You will not have access to any internet connections, but you can bring your own handwritten notes. In the computer that you will use, we will provide you a folder with the instructions for the exam, the `ipynb` files to fill with your answers and code, as well some materials of the course.
