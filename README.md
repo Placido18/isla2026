@@ -23,11 +23,11 @@ The (initial) plan for the topics of each of our classes is the following:
 
 - **Week 2 (09-February 2026)** 
   - CM2: Multiple linear regression
-  - TP1: Regression
+  - TP1: Regression -- **Deadline 24-February 2026**
 
 - **Week 3 (23-February 2026)**
   - CM3: Cross-validation, model selection, bias-variance tradeoff
-  - TP1: Regression -- **Deadline XX**
+  - TP1: Regression -- **Deadline 24-February 2026**
 
 - **Week 4 (02-March 2026)**
   - CM4: Principal component analysis
@@ -35,15 +35,15 @@ The (initial) plan for the topics of each of our classes is the following:
 
 - **Week 5 (09-March 2026)**
   - CM5: Linear classification — Discriminative approach
-  - TP2: Principal components regression (PCR)
+  - TP2: Principal components regression (PCR) -- **Deadline 17-March 2026**
   
 - **Week 6 (16-March 2026)**
   - CM6: Linear classification — Generative approach
-  - TP2: Principal components regression (PCR) -- **Deadline XX**
+  - TP2: Principal components regression (PCR) -- **Deadline 17-March 2026**
 
 - **Week 7 (23-March 2026)**
   - CM7: Decision trees
-  - TP3: Benchmarking classification methods
+  - TP3: Benchmarking classification methods -- **Deadline 28-April 2026**
   
 - **Week 8.1 (30-March 2026)**
   - CM8: Ensemble methods
@@ -62,7 +62,12 @@ The (initial) plan for the topics of each of our classes is the following:
 
 - **Week 11 (27-April 2026)**
   - CM11: Graphs and community detection
-  - TP3: Benchmarking classification methods -- **Deadline XX**
+  - TP3: Benchmarking classification methods -- **Deadline 28-April 2026**
+
+### Challenges
+
+- Challenge 1 will run from 23-February 2026 to 22-March 2026
+- Challenge 2 will run from 23-March 2026 to 04-May 2026
 
 ### Textbooks
 - Many examples and explanations given in class were inspired (or unashamedly copied) from Cosma Shalizi’s excellent lecture notes *“The truth about linear regression”* available [here](https://www.stat.cmu.edu/~cshalizi/TALR/).
